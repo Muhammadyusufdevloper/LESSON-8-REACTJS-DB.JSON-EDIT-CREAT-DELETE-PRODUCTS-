@@ -1,0 +1,60 @@
+{
+  "product": [
+    {
+      "id": 1,
+      "name": "Smartphone",
+      "price": "$299",
+      "brend": "BrandA",
+      "category": "Electronics"
+    },
+    {
+      "id": 2,
+      "name": "Laptop",
+      "price": "$799",
+      "brend": "BrandB",
+      "category": "Electronics"
+    },
+    {
+      "id": 3,
+      "name": "Headphones",
+      "price": "$99",
+      "brend": "BrandC",
+      "category": "Accessories"
+    },
+    {
+      "id": 4,
+      "name": "Camera",
+      "price": "$499",
+      "brend": "BrandD",
+      "category": "Photography"
+    },
+    {
+      "id": 5,
+      "name": "Smartwatch",
+      "price": "$199",
+      "brend": "BrandE",
+      "category": "Wearables"
+    },
+    {
+      "id": 6,
+      "name": "Tablet",
+      "price": "$399",
+      "brend": "BrandF",
+      "category": "Electronics"
+    },
+    {
+      "id": 7,
+      "name": "Monitor",
+      "price": "$299",
+      "brend": "BrandG",
+      "category": "Computers"
+    },
+    {
+      "id": 8,
+      "name": "Keyboard",
+      "price": "$49",
+      "brend": "BrandH",
+      "category": "Accessories"
+    }
+  ]
+}
